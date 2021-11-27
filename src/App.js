@@ -6,6 +6,11 @@ const App = () => {
   return (
     <div className="app">
       <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
     </div>
   )
 }
